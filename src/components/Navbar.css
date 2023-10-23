@@ -1,0 +1,18 @@
+.btn{
+display: flex;
+padding: 10px 20px;
+align-items: center;
+gap: 10px;
+border-radius: 6px;
+background: #4CAF4F;
+color:  #FFF;
+text-align: center;
+font-feature-settings: 'salt' on, 'clig' off, 'liga' off;
+
+/* Label / Medium Label */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 142.857% */
+}
